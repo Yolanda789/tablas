@@ -1,0 +1,241 @@
+html{
+	background-image: url(https://borcas.eu/wp-content/uploads/2021/04/51_fornir_debowy_naturalny-e1557999750768.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1{
+text-align: center;
+
+}
+
+.verde{
+	background-color: green;
+	width: 698px;
+	height: 70px;
+	position: absolute;
+	top: 120px;
+	left: 420px;
+	text-align: center;
+}
+.negro{
+	width: 116px;
+	height: 70px;
+	position: relative;
+	background-color: black;
+	top:110px;
+	left: 413px;
+	
+}
+
+.teal{
+	width: 116px;
+	height: 70px;
+	position: absolute;
+	background-color: #008080;
+	top: 190px;
+	left: 535px;
+
+	
+}
+
+.blue{
+	width: 116px;
+	height: 70px;
+	position: relative;
+	background-color: blue;
+	bottom: -40px;
+	left: 643px;
+	
+}
+
+.navy{
+	width: 117px;
+	height: 70px;
+	position: absolute;
+	background-color: #000080;
+	top: 190px;
+	left: 765px;
+	
+}
+
+.lime{
+	width: 119px;
+	height: 70px;
+	position: relative;
+	background-color: #00ff00;
+	top: -30px;
+	left: 872px;
+	
+}
+
+.white{
+	width: 118px;
+	height: 70px;
+	position: absolute;
+	background-color: white;
+	top: 190px;
+	right: 420px;
+	
+}
+
+
+.purple{
+	width: 116px;
+	height: 70px;
+	position: absolute;
+	background-color: purple;
+	top: 260px;
+	left: 420px;
+	
+}
+
+.yellow{
+	width: 116px;
+	height: 70px;
+	position: absolute;
+	background-color: yellow;
+	top: 260px;
+	left: 535px;
+	
+}
+
+.olive{
+	width: 116px;
+	height: 70px;
+	position:relative;
+	background-color: #808000;
+	top:-30px;
+	left: 644px;
+
+}
+
+
+.red{
+	width: 116px;
+	height: 70px;
+	position:absolute;
+	background-color: red;
+	top: 260px;
+	left: 766px;
+
+}
+
+.black{
+	width: 116px;
+	height: 70px;
+	position:relative;
+	background-color: black;
+	top: -100px;
+	left: 875px;
+
+}
+
+.gray{
+	width: 116px;
+	height: 70px;
+	position:absolute;
+	background-color: #808080;
+	top: 260px;
+	right: 420px;
+
+}
+
+
+.olive1{
+	width: 116px;
+	height: 70px;
+	position:absolute;
+	background-color: #808000;
+	top: 330px;
+	left: 420px;
+
+}
+
+.red1{
+	width: 116px;
+	height: 70px;
+	position:absolute;
+	background-color: red;
+	top: 330px;
+	left: 535px;
+
+}
+
+.fuchsia{
+	width: 116px;
+	height: 70px;
+	position: absolute;
+	background-color: #ff00ff;
+	top: 330px;
+	right: 770px;
+
+}
+
+.verde1{
+	background-color: green;
+	width: 350px;
+	height: 70px;
+	position: absolute;
+	top: 330px;
+	left: 765px;
+	
+}
+
+li{ display: inline-block;
+ }
+
+li.black2{
+	color: black;
+padding-left: 370px;
+}
+li.teal2{
+	color: teal;
+}
+li.blue2{
+	color: blue;
+}
+li.navy2{
+	color: navy;
+}
+li.lime2{
+	color: lime;
+}
+li.white2{
+	color: white;
+}
+li.purple2{
+	color: purple;
+}
+li.olive2{
+	color: olive;
+	padding-left: 365px;
+}
+li.red2{
+	color: red;
+}
+li.marron2{
+	color: marron;
+}
+li.gray2{
+	color: gray;
+}
+li.fuchsia2{
+	color: fuchsia;
+}
+li.green2{
+	color: green;
+}
+li.aqua2{
+	color: aqua;
+}
+li.silver2{
+	color: silver;
+}
+
+li{
+	font-size: 40px;
+	font-weight: bold;
+	
+	
+
+}
